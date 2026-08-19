@@ -11,7 +11,7 @@ env:
 jobs:
   demonstrando-estrutura:
       name: "Demonstrar Estrutura Basica"
-      runs-on: ubutub-latest
+      runs-on: ubuntu-latest
 
       steps: 
         - name: Checkout do codigo
